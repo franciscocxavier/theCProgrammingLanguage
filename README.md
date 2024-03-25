@@ -13,7 +13,7 @@ Each code file in this repository is written in  C ANSI and I used the gcc compi
 
 #### Other Links 
 
-[The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-[C language](https://en.cppreference.com/w/c/language)
-[C Programming Language -  Reference](https://devdocs.io/c/)
-[C (programming language) - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+[The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)<br/>
+[C language](https://en.cppreference.com/w/c/language)<br/>
+[C Programming Language -  Reference](https://devdocs.io/c/)<br/>
+[C (programming language) - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))<br/>
